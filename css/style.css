@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+
+.text-container {
+    width: 1200px;
+    margin-top: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    letter-spacing: -1px;
+    word-break: keep-all;
+    font-family: "Noto Sans KR", sans-serif;
+}
+
+.videopg {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.firparagraph {
+    line-height: 24px;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.firtitle {
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.seccontainer {
+    display: flex;
+    margin-top: 150px;
+}
+
+.seccontainer_2{
+    display: block;
+}
+
+.sectitle {
+    line-height: 130px;
+    font-size: 110px;
+    font-weight: 800;
+}
+
+.secparagraph {
+    width: 570px;
+    line-height: 24px;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+
+.thirdcontainer {
+    display: flex;
+    margin-top: 150px;
+}
+
+.thirdcontainer_2{
+    display: block;
+}
+
+.thirdtitle {
+    line-height: 130px;
+    font-size: 110px;
+    font-weight: 800;
+    text-align: right;
+}
+
+.thirdparagraph {
+    width: 610px;
+    line-height: 24px;
+    margin-top: 20px;
+    font-size: 18px;
+    margin-left: auto;
+    margin-right: 0%;
+}
+
+/* 
+    TEXT-INDENT; 14PX;
+
+*/  
